@@ -18,7 +18,7 @@ XGBoost Regressor
 
 Support Vector Regressor (SVR)
 
-Neural Network (MLP Regressor)
+Gradient Boosting
 
 Evaluation metrics used:
 
