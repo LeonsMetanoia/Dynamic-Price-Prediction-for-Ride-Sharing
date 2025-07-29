@@ -16,6 +16,8 @@ Random Forest Regressor
 
 XGBoost Regressor
 
+Decision Tree
+
 Support Vector Regressor (SVR)
 
 Gradient Boosting
